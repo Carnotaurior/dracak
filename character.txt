@@ -1,2 +1,6 @@
-name, lvl, hp, abilities, dmg, armorClass, speed, inv, att, resist, weakness
-roll(), attack()
+name, lvl, 
+hp, abilities, dmg, armor, speed, inteligence, resist, weakness,
+wallet, inv,
+mount, pet, companion,
+roll(), #attack(), spell(), ultimateSpell(), 
+craft(), enchant(), drink(), eat(), sleep(), taunt(), zahrajNaLoutnu()

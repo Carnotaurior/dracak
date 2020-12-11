@@ -1,0 +1,32 @@
+$Drak
+level:99
+HP:99
+DMG:99
+speed:99
+armor class:99
+resist:FIRE
+
+$Slepice
+level:2
+HP:1
+DMG:1
+speed:99
+armor class:1
+resist:PIERCING
+
+$Prase
+level:3
+HP:15
+DMG:1
+speed:20
+armor class:5
+resist:PHYSICAL
+
+$Kostík
+level:5
+HP:30
+DMG:13
+speed:25
+armor class:5
+resist:PHYSICAL
+
